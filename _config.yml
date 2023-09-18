@@ -1,6 +1,6 @@
 title: Hakim Asri
 logo: /assets/img/photo2.png
 description: Welcome to my portfolio
-show_downloads: true
+#show_downloads: true
 #google_analytics:
 theme: jekyll-theme-minimal
