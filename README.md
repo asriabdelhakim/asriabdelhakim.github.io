@@ -15,7 +15,7 @@
 ## Education
 - Ph.D., Natural Language Processing | Faculty of Science (_Present_)								       		
 - M.S., BI & Big Data Analytics	| Faculty of Science (_November 2021_)	 			        		
-- B.S., Big Data & Systems | Superior School of Technology (_June 2018_)
+- B.S., Big Data & Systems | School of Technology (_June 2018_)
 
 ## Work Experience
 **Data Analyst – @ Ministry of Interior (_September 2022 - Present_)**
