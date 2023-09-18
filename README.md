@@ -13,18 +13,18 @@
 - More stacks: Jira, Linux, Pandas, Jupyter, VMware, TCP/IP, Hadoop, Pig, Ettercap, Burp Suite, Nmap, Matesploit, Beef, Owasp, MITM, Vega, Wireshark, SET, Aircrack-ng, SQLma
 
 ## Education
-- Ph.D., AI & NLP | Faculty of Science (_Present_)								       		
-- M.S., Business Intelligence & Big Data Analytics	| Faculty of Science (_November 2021_)	 			        		
-- B.S., Big Data & Information Systems | Superior School of Technology (_June 2018_)
+- Ph.D., Natural Language Processing | Faculty of Science (_Present_)								       		
+- M.S., BI & Big Data Analytics	| Faculty of Science (_November 2021_)	 			        		
+- B.S., Big Data & Systems | Superior School of Technology (_June 2018_)
 
 ## Work Experience
-**Data Analyst – CRM Consultant @ Ministry of Interior (_September 2022 - Present_)**
+**Data Analyst – @ Ministry of Interior (_September 2022 - Present_)**
 - Identifying data sources & Collecting data
 - Organising data in to usable formats
 - Analysing data to find answers to specific questions
 - Assessing quality of data and removing or cleaning data
 - Generating information and insights from data sets and identifying trends and patterns
-- Preparing reports for executive and project teams
+- Preparing reports for executive and project teams (JIRA)
 - Creating visualisations of data using Excel, Pivot Table, Power BI, Power Query
   
 **AWS Machine Learning - Intern @ Kodlab (_February 2022 – July 2022_)**
@@ -35,7 +35,7 @@
 - Annotating textual data manually using Doccano and train a ML model to solve undefined problems.
 - Collecting data (Pdf documents), Data transformation, Text processing (Tokenization, Normalization, Stopwords…) and merging the final model with pipeline of information extraction.
 
-**Computer Networking Administrator – Intern @ Exchange Office (_May 2016 – Mars 2017_)**
+**Computer Networking – Intern @ Exchange Office (_May 2016 – Mars 2017_)**
 - LDAP directory, Active directory (Manage users and devices, DNS, Roaming profiles, GPO mapped partitions),  PfSense firewall, vsFtpd server, OpenVPN, Web filtering using SQUID, Zabbix (Triggers and Notifications), GNS3, Samba, Nagios Fan, Postfix, Microsoft Exchange Server
   
 ## Projects
