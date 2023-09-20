@@ -46,8 +46,7 @@
 - Conducted information extraction from unstructured resumes (Filter resumes based on multi criteria).
 - Extract e-mails from chosen resumes and fix a job interview with candidates.
 - Matching candidates, resume ranking according to percentage match (Words matching).
-
-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6894403855539429376" height="1073" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6894403855539429376?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ### Design a Chatbot using Rasa framework
 ### Detect Social distancing Using Python (Covid-19)
